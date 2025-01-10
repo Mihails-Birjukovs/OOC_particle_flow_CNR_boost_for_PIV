@@ -11,4 +11,6 @@ https://link.springer.com/article/10.1007/s00348-022-03445-2
 
 https://link.springer.com/article/10.1007/s00348-023-03671-2
 
-and more details will be provided in an upcoming publication.
+and more details are provided in the following publication:
+
+https://arxiv.org/abs/2409.13650
